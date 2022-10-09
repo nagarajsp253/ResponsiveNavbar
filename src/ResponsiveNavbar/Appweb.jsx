@@ -1,11 +1,11 @@
 import React from 'react';
-import Tempapp from './Tempapp';
+import Navbar from './Navbar';
 
 const Appweb =()=>{
 
     return(
         <>
-            <Tempapp/>
+            <Navbar/>
         </>
     )
 }
